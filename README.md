@@ -17,7 +17,8 @@ provided. We make use of artificial neural networks to identify hidden patterns 
 Submissions is done on weighted mean absolute error, where each return being predicted is 
 compared with the actual return, scaled by its corresponding weight: 
 
-(https://github.com/ahmedali1102/stock_market_prediction_challenge/assets/162327449/b8986748-2985-4366-bee6-9c8b6a36e2c8)
+
+![Screenshot 2024-03-05 185442](https://github.com/ahmedali1102/stock_market_prediction_challenge/assets/162327449/0f82ff4f-7da8-4c44-aa91-300f8b8dac37)
 
 
 where 𝑤𝑖 is the weight associated with the return 𝑖, 𝑦̂𝑖 is the predicted return, 𝑦̂ 𝑖 is the actual return, 
