@@ -31,7 +31,7 @@ returns in the samples range from -60% to 80%, whereas intraday returns only ran
 20%, this is shown in Figure 2. 
 The time series data formed by the given asset returns as shown in Figure 3 are quite noisy. The aim 
 of our model is the make predictions on the returns starting from Ret_121, based on the features and 
-historical returns, as illustrated in the given Figure.
+historical returns as illustrated in the given Figure.
 ![stock 1](https://github.com/ahmedali1102/stock_market_prediction_challenge/assets/162327449/332f1bd4-d2a9-40a9-ab59-6d72476a5bc3)
 
 # Algorithms and Techniques 
